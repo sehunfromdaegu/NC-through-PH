@@ -1,0 +1,15 @@
+experiments/MNIST/trained_models/(0)_10classes_balanced(False)_topology_loss(PD1)_regularETF(True)_batch(64)_lr(1e-5)_epochs(5)_additional_epochs(1).pth
+experiments/MNIST/trained_models/10classes_balanced(False)_topology_loss(PD1)_regularETF(True)_batch(64)_lr(1e-5)_epochs(5)_additional_epochs(1).npz
+data/MNIST/raw/t10k-images-idx3-ubyte
+data/MNIST/raw/t10k-images-idx3-ubyte.gz
+data/MNIST/raw/t10k-labels-idx1-ubyte
+data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+data/MNIST/raw/train-images-idx3-ubyte
+data/MNIST/raw/train-images-idx3-ubyte.gz
+data/MNIST/raw/train-labels-idx1-ubyte
+data/MNIST/raw/train-labels-idx1-ubyte.gz
+__pycache__/dataloader.cpython-39.pyc
+__pycache__/loss.cpython-39.pyc
+__pycache__/models.cpython-39.pyc
+__pycache__/train.cpython-39.pyc
+__pycache__/utils.cpython-39.pyc
